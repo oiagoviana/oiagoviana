@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu Profile!!
 
-- 🌱 Atualmente estou aprendendo ReactJS, MySQL, JavaScript, C#
+- 🌱 Atualmente estou aprendendo ReactJS, MySQL, JavaScript
 - 📫 Contate-me no email: iago.tangara5663@gmail.com
 - ⚡ Inicio em 08/09/21
 
@@ -15,8 +15,7 @@
   <img align="center" alt="iago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="iago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="iago-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="iago-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
   ##
